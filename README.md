@@ -1,6 +1,6 @@
 #   Shen Design Project
 
-Manga Project made with HTML,CSSS
+Shen Design Project made with HTML,CSSS
 
 
 ## Technologies
