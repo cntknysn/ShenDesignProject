@@ -2,11 +2,9 @@
 
 Shen Design Project made with HTML,CSSS
 
-
 ## Technologies
-...
 
-HTML CSS
+HTML, CSS
 ...
 
 <img src="images/screenshot.gif">
